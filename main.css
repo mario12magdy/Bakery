@@ -1,0 +1,311 @@
+body {
+
+    margin: 0%;
+
+
+}
+
+.home {
+    background-image: url(drew-coffman-1872.jpg);
+    background-size: cover;
+    background-position: center center;
+    
+    background-repeat: no-repeat;
+}
+
+.home_container {
+    text-align: center;
+    display: block;
+    /* background-color: #06177850; */
+    background-color: #00000058;
+    /* border-radius: 8vw; */
+    height: 100vh;
+
+
+}
+
+.home_container img {
+    width: 15%;
+    float: left;
+    margin-left: 5vw;
+}
+
+
+.home_container ul {
+
+    margin-right: 3vw;
+    list-style: none;
+    float: right;
+}
+
+.home_container ul a {
+    color: white;
+    text-decoration: none;
+}
+
+.home_container li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: 25px;
+    display: inline;
+    margin: 2vw;
+    text-align: center;
+}
+
+.CLR {
+    clear: both;
+}
+
+.home_container .container2 {
+    margin-top: 15%;
+}
+
+.home_container .container2 p {
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.home_container h1 {
+    font-size: 500%;
+    margin: 0;
+}
+
+.home_container h1,
+h2 {
+    /* font-size: 300%; */
+    color: white;
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    /* font-weight: 900; */
+}
+
+.home_container .btn1 {
+    color: white;
+    width: 10vw;
+    height: 8vh;
+    background-color: #8e7754;
+    font-size: 120%;
+    border-radius: 2vw;
+}
+
+.home_container .btn2 {
+    color: #8e7754;
+    width: 10vw;
+    font-size: 120%;
+    height: 8vh;
+    background-color: #ffffff;
+    border-radius: 4vw;
+
+}
+
+.home2 {
+    background-color: #6b686300;
+    height: 80vh;
+}
+
+.home2 img {
+    margin: 7%;
+    border-radius: 7%;
+    float: left;
+    width: 33%;
+}
+
+.home2 ul {
+    list-style: none;
+    width: 45%;
+    margin-top: 7%;
+    float: left;
+}
+
+.home2 h2 {
+    margin: 0%;
+    color: #8e7754;
+}
+
+.home2 ul li {
+    margin: 0%;
+    padding: 0%;
+    /* float: left; */
+    display: inline-block;
+}
+
+.home2 li #we {
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+.svg {
+    width: 40px;
+    height: 40px;
+    fill: #8e7754;
+
+    float: left;
+    margin: 0.3vw;
+    padding: 0.5vw;
+    border-radius: 40%;
+    border: 3px solid rgba(0, 0, 0, .15)
+}
+
+.home2 ul li p {
+    color: #8e7754;
+    margin: 2vw;
+    float: left;
+    font-size: 20px;
+}
+
+.home3 {
+    background-color: #f8f8f8;
+    height: 80vh;
+    display: inline-block;
+}
+
+.home3_1 {
+    width: 30%;
+    font-size: 25px;
+    /* float: right; */
+    display: inline-block;
+    margin-top: 5%;
+
+    margin-left: 9%;
+}
+
+.home3_2 {
+    /* margin-left:7vw ; */
+    float: right;
+}
+
+.home3_2 img {
+    margin-top: 10%;
+    margin-left: 17%;
+    width: 70%;
+    border-radius: 7%;
+}
+
+.home4 {
+    text-align: center;
+}
+
+.home4_1 {
+    width: 25%;
+    display: inline-block;
+    margin: 2%;
+}
+
+.home4_1 img {
+    width: 100%;
+    border-radius: 7%;
+}
+
+.home4_2 {
+    display: inline-block;
+    margin: 2%;
+    width: 25%;
+}
+
+.home4_2 img {
+    margin: 2%;
+    width: 100%;
+    border-radius: 7%;
+
+}
+
+.home4_3 {
+    display: inline-block;
+    margin: 2%;
+    width: 25%;
+
+}
+.home4  h2, h3, p{
+    color: #8e7754;
+
+}
+
+.home4_3 img {
+    width: 101%; 
+    border-radius: 7%;
+
+}
+
+.home5{
+    
+    height: 80vh;
+    background-color: #f8f8f8;
+}
+.home5 ul{
+    list-style-type: none;
+    width: 45%;
+    margin-top: 7%;
+    float: left;
+
+}
+
+.home5_1{
+    /* background-color: blue; */
+    margin: 5%;
+    
+    /* text-align: center; */
+    width: 50%;
+    float: left;
+    
+}
+
+.home5_1 ul li {
+    margin: 0%;
+    padding: 0%;
+    float: left;
+    width: 110%;
+    /* display: inline-block; */
+}
+
+.home5 ul li p {
+    color: #8e7754;
+    /* margin: 1vw; */
+    
+    padding: 0%;
+    /* float: left; */
+    display: inline-block;
+    
+}
+.home5 img{
+    margin-top: 10%;
+    width: 32%;
+}
+
+.home6{
+    width: 100%;
+    height: 50vh;
+    background-color: #403d38 ;
+}.home6_1{
+    width: 23%;
+    margin: 1%;
+    float: right;
+}
+.home6_2{
+    width: 23%;
+    margin: 1%;
+    float: right;
+}
+.home6_3{
+    width: 23%;
+    margin: 1%;
+    /* margin-left:0% ; */
+    float: right;
+}
+.home6_4{
+    width: 23%;
+    
+    margin-top: 3.9%;
+    float: right;
+}
+.home6 p, .home6 h3, .home6 li{
+    color: white;
+}
+.home7{
+    height: 45vh;
+    background-color:#353330 ;
+    text-align: center;
+}
+.home7 .logo{
+    margin-top: 4%;
+    margin-bottom: 1%;
+}
